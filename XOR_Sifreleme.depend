@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1740058527 source:c:\users\emres\onedrive\desktop\xor_sifreleme\main.c
+	<stdio.h>
+	<string.h>
+
